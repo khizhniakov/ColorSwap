@@ -8,6 +8,15 @@ body {
     font-family: 'Poppins', sans-serif;
     height: 100vh;
     display: flex;
+    position: relative;
+}
+
+h1 {
+    padding: 10px;
+    background-color: #ffffff2d;
+    position: absolute;
+    left: 45%;
+    top: 5%;
 }
 
 .col {
